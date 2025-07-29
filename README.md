@@ -108,3 +108,7 @@ Program.cs 里可开启自动更新 和 授权码验证 （不用就不用管）
 
 ![媒体](https://github.com/user-attachments/assets/2f8093f0-16a6-4767-82aa-7b845f46ff26)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Mouseww/TiktokTools&type=Date)](https://star-history.com/#Mouseww/TiktokTools&Date)
+
